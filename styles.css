@@ -1,0 +1,38 @@
+.div1 {
+        text-align: left;
+        padding: 50px;
+        font-family:'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 85px;
+        text-align: center;
+        color: white;
+        background-color: orange
+        
+
+}
+
+#A1{
+    align-items: right;
+    width: 2000px;
+    height: 2100px;
+    padding: 200px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:100px;
+    color: white;
+    background-color: gray;
+   
+
+
+
+}
+
+span{
+
+    font-size: 500px;
+}
+
+#img1{
+    height: 600px;
+    padding: 20px;
+}
